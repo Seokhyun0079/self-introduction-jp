@@ -132,6 +132,10 @@ h2 {
   background-color: #3498db;
 }
 
+.skill-tag.over-4year {
+  background-color: #1e8bc3;
+}
+
 .skill-tag.over-5year {
   background-color: #2ecc71;
 }
